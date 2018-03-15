@@ -1,0 +1,11 @@
+---
+type: 'blog'
+path: "/blog/theory-of-self-pt-2"
+title: "Theory of self(s) Part II"
+subtitle: "Knowing Thyselves"
+date: "2018-03-15"
+published: false
+---
+Having the capacity to recall a piece of knowledge is a fundamentally different state of mind than actively thinking about that same knowledge. Science has amassed a mountain of incredibly odd and interesting experimental behavioral data that seems to support this idea. In a study conducted by psychologist Dan Ariely, one group of participants was asked to recall the 10 commandments from memory while another group was asked to recall ten books that they had read in high school. Each group was then given a reward-based task that allowed for the possibility of cheating. Incredibly, while the book recalling group produced widespread cheating, the ten commandments group produced no infractions at all. Now since the only difference between these two groups was the immediately preceding task of recalling already possessed knowledge and not one that introduced new knowledge, it seems reasonable to say that there is indeed a quantitative difference between knowing something and actively thinking about that thing that is known. 
+
+Not only is the above study interesting as well as supportive to this theory of an ephemeral active information self, but it also provides an extremely useful warning: We shouldn't expect to behave in a way that is true to our ideals if we we aren't actively aware of what those ideals are. If we see this then it becomes important to ask oneself "who am I in this moment"? This is a drastically different question than the typical *know thyself* imperative in that it doesn't assume an illusion of self-constancy. Knowing who you are in general doesn't do much good if the you in the moment isn't actively thinking about the concepts that you're ideal general form assumes. This is why we often observe others (and ourselves) making self-proclamations in one moment and then later acting in a completely different way while in total ignorance of the apparent contradiction.
