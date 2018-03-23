@@ -1,8 +1,9 @@
 ---
 type: 'blog'
 path: "/blog/determining-what-matters"
-title: "How to determine what matters"
-subtitle: ""
+title: "Determining what matters"
+subtitle: "A mental framework for attributing value to things and activities."
+summary: "I have a sense that reading a book matters more than staring at a wall, but what really determines if the one activity is better than the other? Why does anything matter for that...matter? In this post I explore a way to gauge what matters in life in a way that feels far more satisfying than just considering productivity."
 date: "2018-03-18"
 published: true
 ---
