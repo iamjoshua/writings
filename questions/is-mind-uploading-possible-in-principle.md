@@ -3,6 +3,7 @@ question: Is mind uploading possible in principle?
 position: No
 inspiration: https://www.reddit.com/r/artificial/s/35sttrXqb0
 elaboration: Is it possible, if only in principle, to digitally scan a human brain and "move" its mental activity to a computer such that a conscious mind has been uploaded or transferred to that computer?
+published: true
 ---
 
 We don't fully understand the nature of consciousness, but it seems to me that we know enough about the physical world to answer this question confidently: **No**.  Mind uploading is not physically possible. It is common for people to interpret this question in terms of technical ability rather than physical possibility. There are no technical advancements standing between us and mind uploading because mind uploading isn't possible in principle.
