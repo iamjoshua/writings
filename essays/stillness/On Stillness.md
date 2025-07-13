@@ -1,10 +1,8 @@
 ---
 Title: On The Productivity Of Stillness
 published: true
+excerpt: Productivity, however bankrupt that term seems to be these days, might be seen as being at odds with stillness. And yet, conceptually, they aren't clearly oppositional. Here I present a foundational argument for stillness.
 ---
-
-On The Productivity of Stillness
-
 :::WARNING
 This is not a "business" article on productivity. 
 :::END
