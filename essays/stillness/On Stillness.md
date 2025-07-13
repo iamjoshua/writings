@@ -1,5 +1,5 @@
 ---
-title: On The Productivity Of Stillness
+title: On the Productivity of Stillness
 excerpt: Productivity, however bankrupt that term seems to be these days, might be seen as being at odds with stillness. And yet, conceptually, they aren't clearly oppositional. Here I present a foundational argument for stillness.
 published: true
 ---
@@ -35,3 +35,4 @@ This suggests an even stronger argument than the one above.
 >If my being alive constitutively requires my seeking of continuation, and my current conditions do so, and if my being an operating system requires sufficient energy to continue operating, and my current conditions are sustainable, then stillness is a good strategy. 
 
 There are, of course, many arguments from many disparate considerations for stillness. This simple analysis is an attempt to approach stillness foundationally. It's an attempt to make sense of different ways of life which, while seeming "lesser" than human from a classic scientific perspective, are nonetheless undeniably successful. Motivated by the human perspective, most religions and sage advice often promotes stillness in some form or another. There is something to stillness which from many perspectives feels "right" to most people eventually at some stage of their lives. 
+
