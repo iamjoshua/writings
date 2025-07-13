@@ -1,7 +1,16 @@
+---
+Title: On The Productivity Of Stillness
+published: true
+---
+
 On The Productivity of Stillness
 
 :::WARNING
 This is not a "business" article on productivity. 
+:::END
+
+:::NOTE
+This essay is a work in progress. 
 :::END
 
 Productivity, however bankrupt that term seems to be these days, might be seen as being at odds with stillness. And yet, conceptually, they aren't clearly oppositional. If one is overworked and unable to accomplish what one values, it's common to take time to rest. An of course we each sleep each night in order to support a waking life. There is no productivity without periods of stillness and so we can see that "productivity", in whichever specific sense one initially has in mind, has a dependence on something like "stillness". And less anyone thinks that this is simply an unfortunate limitation of our physiology, we could consider non-biological system's need for maintenance to reduce the buildup of entropy inherent to all physical systems. 
